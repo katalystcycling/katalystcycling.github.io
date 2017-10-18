@@ -1129,27 +1129,7 @@ img {
   background-image:none !important;
   filter:none !important;
 }
-/*滑入顯示控制鈕*/
-.carousel .carousel-control,
-.carousel-indicators {
-  opacity: 0;
-  /* Firefox */
-  -moz-transition-property: opacity;
-  -moz-transition-duration: 0.2s;
-  -moz-transition-delay: 0.2s;
-  /* WebKit */
-  -webkit-transition-property: opacity;
-  -webkit-transition-duration: 0.2s;
-  -webkit-transition-delay: 0.2s;
-  /* Opera */
-  -o-transition-property: opacity;
-  -o-transition-duration: 0.2s;
-  -o-transition-delay: 0.2s;
- 
-  transition-property: opacity;
-  transition-duration: 0.2s;
-  transition-delay: 0.2s;
-}
+
 .carousel:hover .carousel-control,
 .carousel:hover .carousel-indicators{
  opacity: 1.0;
