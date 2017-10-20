@@ -9,7 +9,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    {% if page.isHome %}
+    <title>KATALYST CYCLING</title>
+    {% else %}
     <title>{{page.title}} | KATALYST CYCLING</title>
+    {% endif %}
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
