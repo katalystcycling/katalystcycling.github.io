@@ -6872,7 +6872,7 @@ text-align:center;
 cursor:default;
 }
 
-.hovereffect1 .overlay {
+.hovereffect1 .overlay1 {
 width:100%;
 height:100%;
 position:absolute;
@@ -6907,7 +6907,7 @@ transition:all .2s ease-in-out;
 padding:10px;
 }
 
-.hovereffect1 a.info {
+.hovereffect1 a.info1 {
 text-decoration:none;
 display:inline-block;
 text-transform:uppercase;
@@ -6932,7 +6932,7 @@ box-shadow:0 0 5px #fff;
 transform:scale(1.2);
 }
 
-.hovereffect1:hover .overlay {
+.hovereffect1:hover .overlay1 {
 opacity:1;
 filter:alpha(opacity=100);
 }
