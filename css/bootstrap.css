@@ -6859,7 +6859,7 @@ button.close {
 
 /* End */
 
-/* https://miketricking.github.io/bootstrap-image-hover/ */
+/* https://miketricking.github.io/bootstrap-image-hover/ 用在product頁面上的*/
 /* Begin */
 
 .hovereffect1 {
@@ -6915,7 +6915,7 @@ button.close {
   position: relative;
   font-size: 17px;
   background-color: transparent;
-  color: #FFF;
+  color: #FF0000;
   padding: 1em 0;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -6926,7 +6926,7 @@ button.close {
 }
 
 .hovereffect1 a, .hovereffect1 p {
-  color: #FFF;
+  color: #FF0000;
   padding: 1em 0;
   opacity: 0;
   filter: alpha(opacity=0);
