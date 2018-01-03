@@ -6862,7 +6862,7 @@ button.close {
 /* https://miketricking.github.io/bootstrap-image-hover/ 用在product頁面上的*/
 /* Begin */
 
-.hovereffect {
+.hovereffect1 {
 width:100%;
 height:100%;
 float:left;
@@ -6872,7 +6872,7 @@ text-align:center;
 cursor:default;
 }
 
-.hovereffect .overlay {
+.hovereffect1 .overlay {
 width:100%;
 height:100%;
 position:absolute;
@@ -6885,14 +6885,14 @@ background-color:rgba(1,0,0,0.5);
 transition:all .4s ease-in-out
 }
 
-.hovereffect img {
+.hovereffect1 img {
 display:block;
 position:relative;
 -webkit-transition:all .4s linear;
 transition:all .4s linear;
 }
 
-.hovereffect h2 {
+.hovereffect1 h2 {
 text-transform:uppercase;
 color:#fff;
 text-align:center;
@@ -6907,7 +6907,7 @@ transition:all .2s ease-in-out;
 padding:10px;
 }
 
-.hovereffect a.info {
+.hovereffect1 a.info {
 text-decoration:none;
 display:inline-block;
 text-transform:uppercase;
@@ -6922,22 +6922,22 @@ margin:50px 0 0;
 padding:7px 14px;
 }
 
-.hovereffect a.info:hover {
+.hovereffect1 a.info:hover {
 box-shadow:0 0 5px #fff;
 }
 
-.hovereffect:hover img {
+.hovereffect1:hover img {
 -ms-transform:scale(1.2);
 -webkit-transform:scale(1.2);
 transform:scale(1.2);
 }
 
-.hovereffect:hover .overlay {
+.hovereffect1:hover .overlay {
 opacity:1;
 filter:alpha(opacity=100);
 }
 
-.hovereffect:hover h2,.hovereffect:hover a.info {
+.hovereffect1:hover h2,.hovereffect1:hover a.info {
 opacity:1;
 filter:alpha(opacity=100);
 -ms-transform:translatey(0);
@@ -6945,7 +6945,7 @@ filter:alpha(opacity=100);
 transform:translatey(0);
 }
 
-.hovereffect:hover a.info {
+.hovereffect1:hover a.info {
 -webkit-transition-delay:.2s;
 transition-delay:.2s;
 }
