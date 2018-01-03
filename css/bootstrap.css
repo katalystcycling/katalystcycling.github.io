@@ -6870,6 +6870,7 @@ button.close {
   position: relative;
   text-align: center;
   cursor: default;
+  background: #FF0000
 }
 
 .hovereffect1 .overlay1 {
@@ -6915,7 +6916,7 @@ button.close {
   position: relative;
   font-size: 17px;
   background-color: transparent;
-  color: #FF0000;
+  color: #FFF;
   padding: 1em 0;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -6926,7 +6927,7 @@ button.close {
 }
 
 .hovereffect1 a, .hovereffect1 p {
-  color: #FF0000;
+  color: #FFF;
   padding: 1em 0;
   opacity: 0;
   filter: alpha(opacity=0);
