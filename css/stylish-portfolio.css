@@ -211,7 +211,7 @@ hr.small {
     opacity: 0.8;
 }
 
-.portfolio .overlay  {
+.portfolio .overlay .hovereffect  {
   position: absolute;
   top: 0;
   left: 0;
