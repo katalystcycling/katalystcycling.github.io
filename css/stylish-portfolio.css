@@ -211,24 +211,6 @@ hr.small {
     opacity: 0.8;
 }
 
-/* Portfolio product page */
-
-.product-portfolio {
-    padding: 50px 0;
-}
-
-.product-portfolio-item {
-    margin-bottom: 30px;
-}
-
-.img-product-portfolio {
-    margin: 0 auto;
-}
-
-.img-product-portfolio:hover {
-    opacity: 0;
-}
-
 
 /* Call to Action */
 
