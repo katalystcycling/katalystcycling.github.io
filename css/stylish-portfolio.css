@@ -211,6 +211,10 @@ hr.small {
     opacity: 0.8;
 }
 
+.img-portfolio-product:hover {
+    opacity: 0;
+}
+
 /* Call to Action */
 
 .call-to-action {
