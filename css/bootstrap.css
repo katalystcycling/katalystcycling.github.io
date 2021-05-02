@@ -6777,7 +6777,7 @@ button.close {
   position: relative;
   text-align: center;
   cursor: default;
-  background: rgba(200,16,46,0.5);
+  background: rgba(200,16,46,1);/*original rgba(200,16,46,0.%) */
 }
 
 .hovereffect .overlay {
